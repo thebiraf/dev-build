@@ -1,0 +1,23 @@
+{
+  "root": ["loader.lua", "loadstring.txt"],
+
+  "guis": ["HazeLibrary.lua"],
+
+  "libraries": ["Notifications.lua", "Whitelist.lua", "Discord.lua"],
+
+  "libraries/bedfight": ["SprintController.lua", "ScaffoldController.lua", "PartyController.lua", "EmotesController.lua", "StaffList.lua"],
+
+  "libraries/modules": ["EspController.lua", "Entity.lua", "ErrorHandler.lua"],
+
+  "libraries/skybridge": ["PartyController.lua", "SwordController.lua", "BowController.lua"],
+
+  "assets": ["Default.json"],
+
+  "assets/data": ["License.json"],
+
+  "assets/capes": ["Haze.png", "Cat.png", "Troll.png", "Waifu.png", "Wave.png"],
+
+  "assets/lib": ["logo.png", "signlogo.png", "huebar.png", "saturation.png", "lightlogo.png"],
+
+  "games": ["71480482338212.lua", "71657866091528.lua", "97422150253985.lua", "123941384302059.lua", "132547252102193.lua", "Universal.lua"]
+}
